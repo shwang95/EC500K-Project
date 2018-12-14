@@ -12,9 +12,9 @@ This repository is for BU EC500K deep learning course project usage, using Doubl
 
 ## Run
 
-  git clone https://github.com/shwang95/EC500K-Project.git
-  cd EC500K-Project
-  python run.py
+    git clone https://github.com/shwang95/EC500K-Project.git
+    cd EC500K-Project
+    python run.py
 
 ## Trained Model
 
