@@ -18,7 +18,7 @@ This repository is for BU EC500K deep learning course project usage, using Doubl
 
 ## Trained Model
 
-The trained model is not included in the repository due to GitHub's file size limit. You can download from [here](https://drive.google.com/open?id=1KE56u4417NHa5HX6ADITARorQ4KjyaPD) by using BU account. Note we only provides trained Double Dueling DQN model. You can also train the network from scratch.
+The trained model is not included in the repository due to GitHub's file size limit. You can download from [here](https://drive.google.com/open?id=1KE56u4417NHa5HX6ADITARorQ4KjyaPD) by using BU account. Note we only provides trained Double Dueling DQN model (under folder [02DoubleDuelingDQN](https://drive.google.com/open?id=1Saygbj3GoklEXOJs619Tr-CVOqQrOwVw), you should put it into the same folder under `saved_networks` folder). You can also train the network from scratch.
 
 ## Disclaimer
 
